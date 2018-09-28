@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+	int alfa;
+	print("insert the name please");
+	scanf("%d",&alfa);
+	
+	return 0;
+}
